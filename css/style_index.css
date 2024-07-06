@@ -112,10 +112,12 @@ img{
 }
 .index-grid-img-2 img:nth-child(5){
     width:275px;
+    height: 450px;
     object-fit:cover;
 }
 .index-grid-img-2 img:nth-child(6){
     width:275px;
+    height: 450px;
     object-fit:cover;
 }
 .head-of-offer{
